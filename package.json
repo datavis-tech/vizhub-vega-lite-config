@@ -1,0 +1,28 @@
+{
+  "name": "vizhub-vega-lite-config",
+  "version": "1.0.0",
+  "description": "Theme configuration for Vega-Lite for use in VizHub and beyond!",
+  "main": "index.js",
+  "dependencies": {
+    "rollup": "^1.20.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datavis-tech/vizhub-vega-lite-config.git"
+  },
+  "keywords": [
+    "Vega",
+    "Visualization",
+    "Vega-Lite"
+  ],
+  "author": "Curran Kelleher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/datavis-tech/vizhub-vega-lite-config/issues"
+  },
+  "homepage": "https://github.com/datavis-tech/vizhub-vega-lite-config#readme"
+}
